@@ -10,6 +10,9 @@ Due to a bug in the foodcritic API, rules with the recipe block, do not only sca
 ## rules-deprecated
 This folder still contains the deprecated rules, which scan all kind of files, not only Recipes. This might be useful in some cases. There is no guarantee, that the rules are otherwise equal to those in the rules folder, since the rule folder is mainly updated.
 
+## scripts
+Some helper scripts used for evaluation.
+
 # INSTALLATION
 * install RVM (https://rvm.io/rvm/install)
 * rvm install ruby-2.4.0
